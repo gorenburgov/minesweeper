@@ -127,8 +127,7 @@ class Dashboard extends Component {
 
                         <button
                             type="submit"
-                            disabled={this.state.pendingRequest}
-                            className="waves-effect waves-light btn-small">
+                            disabled={this.state.pendingRequest}>
                             New game
                         </button>
                     </div>
