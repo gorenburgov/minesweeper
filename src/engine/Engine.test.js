@@ -28,6 +28,8 @@ it('open all  neihgboring cell with no mines around ', () => {
 
 it('change to win status when win', () => {
     engine.toggleFlagCell(2, 2);
+    engine.openCell(2, 2);
+    expect(field.getCell(2, 2).isOpen).toEqual(false);
     engine.toggleFlagCell(7, 2);
     engine.toggleFlagCell(0, 3);
     engine.toggleFlagCell(0, 3);

@@ -41,7 +41,7 @@ class Engine {
         const { isMined, isFlagged, isOpen } = this.field.getCell(x, y);
         if (!isFlagged && isMined) {
             this.processLoose(x, y);
-        } else if (!isMined && !isOpen) {
+        } else if (!isFlagged && !isOpen) {
             this.processOpen(x, y);
         }
         return this.getViewState();
