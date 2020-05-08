@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.28a70157.chunk.css",
-    "main.js": "/static/js/main.f2cea9dc.chunk.js",
-    "main.js.map": "/static/js/main.f2cea9dc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1c96a9e1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1c96a9e1.js.map",
-    "static/js/2.6ec516b7.chunk.js": "/static/js/2.6ec516b7.chunk.js",
-    "static/js/2.6ec516b7.chunk.js.map": "/static/js/2.6ec516b7.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9f9ea30317a9072cf60d7fb070edb4be.js": "/precache-manifest.9f9ea30317a9072cf60d7fb070edb4be.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.28a70157.chunk.css.map": "/static/css/main.28a70157.chunk.css.map",
-    "static/js/2.6ec516b7.chunk.js.LICENSE.txt": "/static/js/2.6ec516b7.chunk.js.LICENSE.txt"
+    "main.css": "/%20//gorenburgov.github.io/minesweeper/static/css/main.0c73bf5f.chunk.css",
+    "main.js": "/%20//gorenburgov.github.io/minesweeper/static/js/main.fc922b36.chunk.js",
+    "main.js.map": "/%20//gorenburgov.github.io/minesweeper/static/js/main.fc922b36.chunk.js.map",
+    "runtime-main.js": "/%20//gorenburgov.github.io/minesweeper/static/js/runtime-main.bcb6050f.js",
+    "runtime-main.js.map": "/%20//gorenburgov.github.io/minesweeper/static/js/runtime-main.bcb6050f.js.map",
+    "static/js/2.46cb6c06.chunk.js": "/%20//gorenburgov.github.io/minesweeper/static/js/2.46cb6c06.chunk.js",
+    "static/js/2.46cb6c06.chunk.js.map": "/%20//gorenburgov.github.io/minesweeper/static/js/2.46cb6c06.chunk.js.map",
+    "index.html": "/%20//gorenburgov.github.io/minesweeper/index.html",
+    "precache-manifest.d5641228fbe8ed4d544cf3e9ffa69a46.js": "/%20//gorenburgov.github.io/minesweeper/precache-manifest.d5641228fbe8ed4d544cf3e9ffa69a46.js",
+    "service-worker.js": "/%20//gorenburgov.github.io/minesweeper/service-worker.js",
+    "static/css/main.0c73bf5f.chunk.css.map": "/%20//gorenburgov.github.io/minesweeper/static/css/main.0c73bf5f.chunk.css.map",
+    "static/js/2.46cb6c06.chunk.js.LICENSE.txt": "/%20//gorenburgov.github.io/minesweeper/static/js/2.46cb6c06.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c96a9e1.js",
-    "static/js/2.6ec516b7.chunk.js",
-    "static/css/main.28a70157.chunk.css",
-    "static/js/main.f2cea9dc.chunk.js"
+    "static/js/runtime-main.bcb6050f.js",
+    "static/js/2.46cb6c06.chunk.js",
+    "static/css/main.0c73bf5f.chunk.css",
+    "static/js/main.fc922b36.chunk.js"
   ]
 }
